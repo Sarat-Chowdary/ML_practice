@@ -1,2 +1,3 @@
 # ML_practice
-Machine learning algorithms
+Code for Machine learning algorithms in python
+includes SVM, linear regression, naive bayes classifier, bias variance analysis ...
